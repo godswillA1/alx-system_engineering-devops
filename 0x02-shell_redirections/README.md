@@ -1,1 +1,1 @@
-Learning shell redirection and use of special character
+0x02. Shell, I/O Redirections and filters
